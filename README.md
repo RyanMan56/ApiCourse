@@ -1,1 +1,1 @@
-Created following the CityInfo Api course on Pluralsight. Including my notes.
+Created following the CityInfo Api course on Pluralsight by Kevin Dockx. Including my notes.
